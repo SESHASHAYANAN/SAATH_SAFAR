@@ -6,7 +6,7 @@
 
 **Current Healthcare Crisis:**
 - **85% of seniors struggle** with limited access to professional physiotherapy
-- **Healthcare costs rising by 12% annually** making rehabilitation unaffordable
+- **Healthcare costs rising by 12% annually**, making rehabilitation unaffordable
 - **Physical therapist shortage** affecting 2.8 billion people globally by 2030
 - **Post-surgery recovery delays** costing healthcare systems $47 billion annually
 - **Rural healthcare gaps** leaving millions without proper rehabilitation support
