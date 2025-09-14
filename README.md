@@ -112,8 +112,15 @@ orca-saath-safar/
 
 https://github.com/user-attachments/assets/9ff1bc14-3d13-4ba8-b0cb-955100809e90
 
+### **Software UI and Working**
+
+### **LOGIN**
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3611afec-45d3-4cd6-8dd9-237ffa56ea74" />
+
 
 ### **Hardware Demonstration Video**
+
+https://github.com/user-attachments/assets/9ff1bc14-3d13-4ba8-b0cb-955100809e90
 
 **📹 Watch Our Live Hardware Demo:**
 
@@ -294,8 +301,6 @@ https://github.com/user-attachments/assets/9ff1bc14-3d13-4ba8-b0cb-955100809e90
 - **Insurance Advocacy**: We help coordinate with your insurance provider
 
 ---
-
-## 📞 Next Steps & Contact
 
 ### **Immediate Actions**
 1. **📹 Watch Demo Video**: Experience our hardware-software integration
