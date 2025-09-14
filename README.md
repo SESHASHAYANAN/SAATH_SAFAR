@@ -110,10 +110,12 @@ orca-saath-safar/
 
 ## 🎬 Demo Video Integration
 
+https://github.com/user-attachments/assets/9ff1bc14-3d13-4ba8-b0cb-955100809e90
+
+
 ### **Hardware Demonstration Video**
 
 **📹 Watch Our Live Hardware Demo:**
-*[Demo Video Placeholder - Your hardware demonstration video will showcase:]*
 
 **Featured Demo Elements:**
 1. **LIDAR Scanning in Action**: Real-time 3D environment mapping
@@ -170,7 +172,8 @@ orca-saath-safar/
 
 #### **Real-Time Feedback Loop**
 ```
-Sensors → Data Collection → AI Analysis → Treatment Adjustment → Hardware Response → Patient Feedback → Optimization
+**Sensors → Data Collection → AI Analysis → Treatment Adjustment → Hardware Response → Patient Feedback → Optimization**
+
 ```
 
 #### **Advanced Sensor Fusion**
@@ -301,10 +304,8 @@ Sensors → Data Collection → AI Analysis → Treatment Adjustment → Hardwar
 4. **🤝 Partnership Inquiry**: Explore collaboration opportunities
 
 ### **Contact Information**
-- **Clinical Inquiries**: clinical@orcasaathsafar.com
-- **Technical Support**: support@orcasaathsafar.com  
-- **Partnership Development**: partnerships@orcasaathsafar.com
-- **Investment Relations**: investors@orcasaathsafar.com
+- **Partnership Development**:msseshashayanan2005@gmail.com
+- **Investment Relations**: msseshashayanan2005@gmail.com
 
 ---
 
