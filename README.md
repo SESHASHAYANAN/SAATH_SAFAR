@@ -116,7 +116,181 @@ https://github.com/user-attachments/assets/9ff1bc14-3d13-4ba8-b0cb-955100809e90
 
 ### **LOGIN**
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3611afec-45d3-4cd6-8dd9-237ffa56ea74" />
+### Page Overview###
+The login page serves as the entry point for the AI-powered rehabilitation companion application. It features a modern, clean design with a gradient background and focuses on user onboarding through a simple name input interface.
 
+### **DASHBOARD**
+<img width="1351" height="768" alt="image" src="https://github.com/user-attachments/assets/77558697-0262-42a5-a679-e24e993b7e6b" />
+Welcome header with user progress (Points: 0, Sessions: 0, Level 1)
+Smart Features grid (6 cards): Exercise Tracking, Therapy Plans, Progress Monitoring, Health Analytics, AI Assistant, Smart Chair Integration.
+AI Health Assistant chat interface with a sample interaction about leg pain treatment.
+Advanced Sensor Report module with LiDAR, Backbone, Pressure, and Biometric sensors.
+Generate Report button for comprehensive health analysis.
+
+### **🚀 Smart Features**
+<img width="1352" height="763" alt="image" src="https://github.com/user-attachments/assets/662dd110-d369-4010-8fcc-2c6e21dc35e8" />
+Key Features:
+AI-generated exercise routines
+Adaptive difficulty levels
+Medical history integration
+Recovery milestone updates
+
+### **🎯 AI-Powered Pain Assessment**
+<img width="1342" height="768" alt="image" src="https://github.com/user-attachments/assets/7cf4744a-b30c-4755-a583-b93a0912ced0" />
+<img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/465865e7-74e2-425f-8032-ff5d4b625770" />
+<img width="1349" height="768" alt="image" src="https://github.com/user-attachments/assets/8a761a4c-222a-437f-9277-f2038573351a" />
+An Interactive pain assessment interface with two key components:
+Body Area Selection
+Human body silhouette diagram for visual area selection
+Currently selected: "Right Knee" (highlighted with blue indicator)
+Click-to-select functionality for precise pain location identification
+Pain Level Scale
+0-10 pain scale slider with color-coded gradient:
+Green (0): "No Pain"
+Yellow/Orange (5): "Moderate"
+Red (10): "Severe"
+Current setting: 0 (No Pain)
+Interactive slider control for precise pain level input
+Customizable intensity settings
+
+### **🎯 AI-Powered Pain Assessment**
+<img width="1348" height="768" alt="image" src="https://github.com/user-attachments/assets/fb0f9a30-552f-467d-b410-9d56a51b2158" />
+Generate AI Assessment
+Primary action button that processes user inputs (body area, pain level, consistency pattern) to create a personalized assessment.
+AI-Generated Assessment Report
+Assessment Summary
+Targeted analysis for "Right Knee" showing:
+Pain diagnosis: Morning stiffness at level 7/10
+Clinical interpretation: Moderate inflammation and muscle tension
+Recommendation: Targeted intervention required
+Assessment Tags
+Pain Level: 7/10 (red indicator - high severity)
+Pattern: Morning Stiffness (orange indicator - specific timing)
+Action Buttons
+Get Treatment Recommendations (green) - AI-powered therapy suggestions
+Doctor Recommendations (blue) - Medical professional consultation options
+
+### **📋 Treatment Recommendations**
+<img width="1350" height="768" alt="image" src="https://github.com/user-attachments/assets/f4cec0db-7bbb-4077-a604-70f2c517230f" />
+AI-generated treatment plan interface displaying personalized therapy recommendations based on pain assessment results.
+
+Treatment Cards (3 prioritized options):
+1. Immediate Pain Management
+Priority: HIGH (red indicator)
+
+Treatment: Cold therapy for inflammation + heat therapy for muscle relaxation
+
+Duration: 2-3 times daily
+
+Target Goals:
+Reduce inflammation by 40%
+Improve mobility range by 25%
+Status: Ready to Start
+2. Progressive Exercise Protocol
+Priority: MEDIUM (orange indicator)
+Treatment: Gradual strengthening exercises for affected muscle groups
+Duration: Daily, 15-20 minutes
+Target Goals:
+Increase strength by 30%
+Restore functional movement patterns
+Status: Ready to Start
+3. Posture Correction Therapy
+Priority: MEDIUM (orange indicator)
+
+### **🤖 AI Health Assistant**
+<img width="1350" height="768" alt="image" src="https://github.com/user-attachments/assets/3d3da87b-084b-44aa-839c-4179f32a8f9a" />
+<img width="1332" height="768" alt="image" src="https://github.com/user-attachments/assets/099228bc-1c44-414e-b269-c746b209ee0c" />
+
+<img width="1337" height="768" alt="image" src="https://github.com/user-attachments/assets/0e99d0cc-c066-4094-bd1f-4322b9dd5f3c" />
+
+Dedicated AI assistant page providing personalized health guidance and treatment recommendations using OpenAI 120B .
+
+Layout Structure
+Left Sidebar - Body Map
+Interactive body diagram for pain location selection
+
+Simplified human figure with clickable areas
+
+"Active" status indicator at the bottom
+
+Center Panel - AI Chat Interface
+AI Assistant Greeting:
+
+"Hello Sesha!" with bot avatar
+
+Introduction message: "I'm your AI health assistant, ready to provide personalized exercises and treatments..."
+
+Service offerings:
+
+🎯 Personalized Treatment Plans
+
+📱 Real-time Exercise Guidance
+
+📊 Progress Tracking
+
+Quick Start Options (6 condition buttons):
+
+🦵 Left Leg Pain
+
+⚫ Knee Pain
+
+🟣 Back Pain
+
+💧 Hip Issues
+
+🔗 Neck Problems
+
+🦶 Ankle Mobility
+
+Right Sidebar - Progress & Resources
+Session Progress:
+
+0 of 5 exercises completed today
+
+3 day streak indicator 🔥
+
+Progress visualization
+
+Common Treatments:
+
+🟣 Lower Back Pain
+
+🔗 Neck Stiffness
+
+🦶 Hip Mobility
+
+📋 Posture Help
+
+### **🔬 Advanced Multi-Sensor Analysis**
+<img width="1315" height="768" alt="image" src="https://github.com/user-attachments/assets/9d6b67f7-02c5-4405-9e9d-e2d9a7edd734" />
+<img width="1353" height="768" alt="image" src="https://github.com/user-attachments/assets/6ea704d8-6337-418c-9742-4f4dc9cbcc51" />
+<img width="1329" height="768" alt="image" src="https://github.com/user-attachments/assets/cacdd838-1287-4b6d-a38e-c666c77eb6ce" />
+Smart chair diagnostic interface for comprehensive health monitoring and analysis.
+1. 🎯 LiDAR Positioning
+Advanced spatial positioning and movement tracking
+
+2. 🦴 Backbone EMG Array
+Electromyography sensors for muscle activity monitoring
+
+3. 👆 Pressure Mapping
+Pressure distribution analysis across seating surface
+
+4. ❤️ Biometric Monitoring
+Vital signs and physiological data collection
+
+5. 📹 IMU Motion Capture
+Inertial measurement unit for precise movement analysis
+
+### **👨‍⚕️ Expert Consultations**
+<img width="1348" height="768" alt="image" src="https://github.com/user-attachments/assets/7a5f9a36-b6f2-4a2f-aaac-322a6df76c79" />
+<img width="1342" height="768" alt="image" src="https://github.com/user-attachments/assets/3b6ac08d-9d57-4640-84ef-5936701cb20d" />
+<img width="1345" height="768" alt="image" src="https://github.com/user-attachments/assets/fb01b070-ff36-44bd-986c-ee1947ec0ccb" />
+One-click appointment booking interface that streamlines the process of connecting patients with medical professionals for specialized consultation.
+
+
+### **📊 Comprehensive Treatment Process Review**
+Get real-time Treatment Process Review with Gpt ross 120b model
+<img width="1346" height="768" alt="image" src="https://github.com/user-attachments/assets/80968158-3239-49f2-a3f6-721f0b9e0528" />
 
 ### **Hardware Demonstration Video**
 
